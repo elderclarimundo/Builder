@@ -1,4 +1,4 @@
-# Desafio Técnico - Equipe Builder
+# Desafio Técnico - Analista de Dados
 
 Olá! Bem-vindo ao repositório 'Builder'. Este repositório contém arquivos importantes para a avaliação de um desafio técnico para a vaga de Analista de Dados na equipe Builder.
 
